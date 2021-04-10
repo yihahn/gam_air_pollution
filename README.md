@@ -10,4 +10,4 @@ Data
 4. Others: The day of week, The month of year, holiTrue, t(increment by 1 for everyday), 
            MERS pandemic period
 
-Project: 질병관리청 용역과제 2020.3 ~ 2021.2
+Project: 질병관리청 용역과제, 뇌졸중과 미세먼지 연관성 연구,2020.3 ~ 2021.2
